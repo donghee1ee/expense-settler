@@ -1,4 +1,4 @@
 *.csv
-*.txt
+settle.txt
 .DS_Store
 .vscode
