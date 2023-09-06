@@ -9,7 +9,7 @@ Expense sharing tool
 ## SetUp
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/ryu0315360/settle.git
+git clone https://github.com/ryu0315360/expense-settler.git
 ```
 2. Navigate to the project folder and install the required Python packages.
 ```bash
